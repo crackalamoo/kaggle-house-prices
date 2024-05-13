@@ -1,5 +1,3 @@
-data_description.txt
-sample_submission.csv
-test.csv
-train.csv
-output.png
+data
+.DS_Store
+.gitignore
